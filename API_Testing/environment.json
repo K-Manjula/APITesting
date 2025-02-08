@@ -1,0 +1,232 @@
+{
+	"id": "ccd4aab4-242a-4af0-becc-c15ee6f35165",
+	"name": "QA_Team13",
+	"values": [
+		{
+			"key": "BaseURL",
+			"value": "https://lms-marchapi-hackathon-a258d2bbd43b.herokuapp.com/lms",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "AdminLoginURL",
+			"value": "{{BaseURL}}/login",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "Numpyninja@1",
+			"enabled": true
+		},
+		{
+			"key": "UserLoginEmailID",
+			"value": "sdetorganizers@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJzZGV0b3JnYW5pemVyc0BnbWFpbC5jb20iLCJpYXQiOjE3MTAyNTg5OTcsImV4cCI6MTcxMDI4Nzc5N30.nte1oCXUpoDTDs3slfl-BKeSpduEq8bJkgRN51XClhu-FW-hdBoYLsVT28j3ouib4I1nZpm9wtgf4cz4BQE5Og",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "AdminLogout",
+			"value": "{{BaseURL}}/logoutlms",
+			"enabled": true
+		},
+		{
+			"key": "currentNumber",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "email_env",
+			"value": "Team13cjv1h81svtj@gmail.com",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "name_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "phone_env",
+			"value": 5658114407,
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "bthnoofclass",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "roleId_env",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "updateed+{{programname}}",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "roleid",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "roleID",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "rid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ROLEID",
+			"value": "R03",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "NewbatchId",
+			"value": 8642,
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "NewemailId",
+			"value": "Team133grmios6g2l@gmail.com",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "InvalidUserID",
+			"value": "12",
+			"enabled": true
+		},
+		{
+			"key": "NewbatchId_DD",
+			"value": 9613,
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "NewbatchName_DD",
+			"value": "March24-PostmanExplorers-SDET-SDET01-112",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "programname_DD",
+			"value": "March24-PostmanExplorers-SDET2-1308",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userId_env",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "userId_env",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "userId_env",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "roleid",
+			"value": "R03",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "roleids",
+			"value": [
+				"R01"
+			],
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "UserVisaStatus",
+			"value": "Not-Specified",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userVisaStatuses",
+			"value": [
+				"NA",
+				"GC-EAD",
+				"H4-EAD",
+				"H4",
+				"H1B",
+				"Canada-EAD",
+				"Indian-Citizen",
+				"US-Citizen",
+				"Canada-Citizen"
+			],
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "UserTimeZone",
+			"value": "PST",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userTimeZones",
+			"value": [
+				"CST",
+				"EST",
+				"MST",
+				"IST"
+			],
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "UserFirstName",
+			"value": "PostmanExplorers",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "batchName",
+			"value": "March24-PostmanExplorers-SDET-SDET{{$randomInt}}-941",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userId_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-03-12T20:32:17.939Z",
+	"_postman_exported_using": "Postman/10.23.12"
+}
